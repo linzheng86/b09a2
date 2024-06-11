@@ -247,3 +247,4 @@ Therefore, binary enconding is more efficient since it uses less time and space.
 However, for larger amount of data, binary encoding takes longer to save and uses more space. 
 
 # b09a2
+# b09a2
